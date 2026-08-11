@@ -13,11 +13,11 @@ I am working through data structures and algorithms the way they're actually ask
 
 ## Progress
 
-| Platform | Solved | Note |
-| -------- | ------ | ---- |
-| LeetCode | 0 | Updated as problems are committed |
-| NeetCode | 0 | |
-| HackerRank | 0 | |
+| Platform   | Solved | Note                              |
+| ---------- | ------ | --------------------------------- |
+| LeetCode   | 0      | Updated as problems are committed |
+| NeetCode   | 0      |                                   |
+| HackerRank | 0      |                                   |
 
 ## How solutions are organized
 
@@ -52,7 +52,7 @@ The current state of every topic — what I'm working on now, what I've practice
 
 ## Learning decisions
 
-I record the *why* behind my choices as Architecture Decision Records in [`docs/adr/`](docs/adr/). Start with [ADR-0001: language and platform strategy](docs/adr/0001-language-and-platform-strategy.md).
+I record the _why_ behind my choices as Architecture Decision Records in [`docs/adr/`](docs/adr/). Start with [ADR-0001: language and platform strategy](docs/adr/0001-language-and-platform-strategy.md).
 
 ## Connect
 
@@ -60,4 +60,4 @@ I record the *why* behind my choices as Architecture Decision Records in [`docs/
 
 ---
 
-*This repo is a work in progress, updated as I learn — not a finished showcase.*
+_This repo is a work in progress, updated as I learn — not a finished showcase._
