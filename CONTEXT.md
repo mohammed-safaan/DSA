@@ -44,7 +44,7 @@ Updated as the journey progresses. Status meanings: **upcoming** — not started
 
 | Topic | Status | Notes |
 | ----- | ------ | ----- |
-| Arrays & Hashing | upcoming | |
+| Arrays & Hashing | in progress | Contains Duplicate, Two Sum, Valid Anagram, Group Anagrams, Top K Frequent Elements |
 | Two Pointers | upcoming | |
 | Sliding Window | upcoming | |
 | Stack | upcoming | |

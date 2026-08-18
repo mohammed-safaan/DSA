@@ -16,7 +16,7 @@ I am working through data structures and algorithms the way they're actually ask
 | Platform   | Solved | Note                              |
 | ---------- | ------ | --------------------------------- |
 | LeetCode   | 0      | Updated as problems are committed |
-| NeetCode   | 0      |                                   |
+| NeetCode | 5 | |
 | HackerRank | 0      |                                   |
 
 ## How solutions are organized
